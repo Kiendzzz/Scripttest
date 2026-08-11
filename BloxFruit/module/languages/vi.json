@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "combat": "Chiến Đấu",
+    "farm": "Farm",
+    "misc": "Tiện Ích",
+    "teleport": "Dịch Chuyển",
+    "settings": "Cài Đặt"
+  },
+  "settings": {
+    "title": "Cài Đặt",
+    "language": "Ngôn Ngữ",
+    "languageDesc": "Chọn ngôn ngữ hiển thị",
+    "theme": "Giao Diện",
+    "themeDesc": "Chuyển giữa chế độ tối và sáng",
+    "dark": "Tối",
+    "light": "Sáng",
+    "saveData": "Lưu Cài Đặt",
+    "saveDataDesc": "Tự động lưu cấu hình vào file",
+    "notifications": "Thông Báo",
+    "notificationsDesc": "Hiện thông báo trạng thái",
+    "saved": "Đã lưu cài đặt!",
+    "reset": "Đặt Lại Mặc Định"
+  },
+  "combat": {
+    "title": "Chiến Đấu",
+    "autoFarm": "Tự Động Farm",
+    "autoFarmDesc": "Tự động farm quái vật",
+    "autoBoss": "Tự Động Boss",
+    "autoBossDesc": "Tự động tiêu diệt boss",
+    "autoKen": "Tự Động Ken (Instinct)",
+    "autoKenDesc": "Tự động kích hoạt Instinct",
+    "bringMobs": "Kéo Mob",
+    "bringMobsDesc": "Kéo quái vật về vị trí của bạn",
+    "selectWeapon": "Chọn Vũ Khí",
+    "mobHeight": "Chiều Cao Mob",
+    "bringRadius": "Bán Kính Kéo",
+    "target": "Mục Tiêu",
+    "noTarget": "Không Có Mục Tiêu"
+  },
+  "farm": {
+    "title": "Farm",
+    "autoQuest": "Tự Động Nhiệm Vụ",
+    "autoQuestDesc": "Tự động nhận và hoàn thành nhiệm vụ",
+    "autoSell": "Tự Động Bán",
+    "autoSellDesc": "Tự động bán vật phẩm khi đầy túi",
+    "chestFarm": "Farm Rương",
+    "chestFarmDesc": "Tự động thu thập rương",
+    "materials": "Nguyên Liệu",
+    "materialsDesc": "Tự động thu thập nguyên liệu"
+  },
+  "misc": {
+    "title": "Tiện Ích",
+    "antiAfk": "Chống AFK",
+    "antiAfkDesc": "Ngăn bị đá do AFK",
+    "autoRejoin": "Tự Động Vào Lại",
+    "autoRejoinDesc": "Tự động vào lại khi mất kết nối",
+    "lighting": "Cải Thiện Ánh Sáng",
+    "lightingDesc": "Cải thiện tầm nhìn trong game",
+    "team": "Tự Động Đội",
+    "teamDesc": "Tự động tham gia đội Marines"
+  },
+  "teleport": {
+    "title": "Dịch Chuyển",
+    "search": "Tìm kiếm địa điểm...",
+    "world1": "Biển Thứ Nhất",
+    "world2": "Biển Thứ Hai",
+    "world3": "Biển Thứ Ba"
+  },
+  "common": {
+    "enabled": "Bật",
+    "disabled": "Tắt",
+    "on": "BẬT",
+    "off": "TẮT",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "confirm": "Xác Nhận",
+    "loading": "Đang Tải...",
+    "version": "Phiên Bản",
+    "by": "bởi",
+    "hub": "APPLE HUB"
+  }
+}
