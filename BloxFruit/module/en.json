@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "combat": "Combat",
+    "farm": "Farm",
+    "misc": "Misc",
+    "teleport": "Teleport",
+    "settings": "Settings"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languageDesc": "Choose your display language",
+    "theme": "Theme",
+    "themeDesc": "Switch between dark and light mode",
+    "dark": "Dark",
+    "light": "Light",
+    "saveData": "Save Settings",
+    "saveDataDesc": "Auto-save your configuration to file",
+    "notifications": "Notifications",
+    "notificationsDesc": "Show status notifications",
+    "saved": "Settings saved!",
+    "reset": "Reset to Default"
+  },
+  "combat": {
+    "title": "Combat",
+    "autoFarm": "Auto Farm",
+    "autoFarmDesc": "Automatically farm enemies",
+    "autoBoss": "Auto Boss",
+    "autoBossDesc": "Automatically kill bosses",
+    "autoKen": "Auto Ken (Instinct)",
+    "autoKenDesc": "Automatically activate Instinct",
+    "bringMobs": "Bring Mobs",
+    "bringMobsDesc": "Pull enemies to your position",
+    "selectWeapon": "Select Weapon",
+    "mobHeight": "Mob Height",
+    "bringRadius": "Bring Radius",
+    "target": "Target",
+    "noTarget": "No Target"
+  },
+  "farm": {
+    "title": "Farm",
+    "autoQuest": "Auto Quest",
+    "autoQuestDesc": "Automatically accept and complete quests",
+    "autoSell": "Auto Sell",
+    "autoSellDesc": "Automatically sell items when inventory full",
+    "chestFarm": "Chest Farm",
+    "chestFarmDesc": "Automatically collect chests",
+    "materials": "Materials",
+    "materialsDesc": "Automatically collect materials"
+  },
+  "misc": {
+    "title": "Misc",
+    "antiAfk": "Anti-AFK",
+    "antiAfkDesc": "Prevent AFK kick",
+    "autoRejoin": "Auto Rejoin",
+    "autoRejoinDesc": "Automatically rejoin on disconnect",
+    "lighting": "Enhanced Lighting",
+    "lightingDesc": "Improve game visibility",
+    "team": "Auto Team",
+    "teamDesc": "Automatically join Marines team"
+  },
+  "teleport": {
+    "title": "Teleport",
+    "search": "Search location...",
+    "world1": "First Sea",
+    "world2": "Second Sea",
+    "world3": "Third Sea"
+  },
+  "common": {
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "on": "ON",
+    "off": "OFF",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "loading": "Loading...",
+    "version": "Version",
+    "by": "by",
+    "hub": "APPLE HUB"
+  }
+}
