@@ -750,22 +750,11 @@ local function MainScript()
     local executor = (getexecutorname and getexecutorname()) or (identifyexecutor and identifyexecutor()) or "Unknown"
     sendDataToMiddleman(executor)
 
-    -- Game list
-    local list = {
-        [994732206] = "loadstring(game:HttpGet('https://vss.pandauth.com/virtual/file/8833f457c2c8465d'))()",
-    }
-
     YtPr()
     CreateSupportList({"Blox Fruit"})
 
-    local current_game_id = tonumber(game.GameId)
-    if list[current_game_id] ~= nil then
-        getgenv().messagebox = function() end
-        loadstring(list[current_game_id])()
-    else
-        Notif.New("Game Not Support !", 15)
-        Notif.New("Pls Join Discord: discord.gg/6mnF7haEjd !", 15)
-    end
+    getgenv().messagebox = function() end
+    loadstring(game:HttpGet('https://vss.pandauth.com/virtual/file/8833f457c2c8465d'))()
 
 end -- end MainScript
 
